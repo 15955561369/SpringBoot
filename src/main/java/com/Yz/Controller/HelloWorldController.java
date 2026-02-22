@@ -1,0 +1,29 @@
+package com.Yz.Controller;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloWorldController {
+    //从properties中拿值
+    @Value("${mayikt.name}")
+    private String name;
+    @Value("${mayikt.age}")
+    private int age;
+
+    @RequestMapping("/properties")
+    public String getProperties(){
+        return name+" "+age;
+    }
+
+    @RequestMapping("/helloworld")
+    public String helloWorld() {
+        return "Hello World";
+    }
+
+
+}
