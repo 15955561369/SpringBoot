@@ -1,0 +1,30 @@
+## 开发环境
+mayikt: #自定义变量
+  name: yushengjun
+  age: 22
+  address: XiAn
+spring: #SpringBoot配置
+  http:
+    encoding:
+      force: true
+      ### 模版引擎编码为UTF-8
+      charset: UTF-8
+  freemarker: ##模板引擎FreeMarker配置
+    allow-request-override: false
+    cache: false # cache: 是否缓存，线下开发时设置为false，避免改了模板还要重启服务器刷新，上线后设置为true，可以提高性能
+    check-template-location: true
+    charset: UTF-8
+    content-type: text/html; charset=utf-8
+    expose-request-attributes: false
+    expose-session-attributes: false
+    expose-spring-macro-helpers: false
+    ## 模版文件结尾.ftl 可自定义
+    suffix: .ftl
+    ## 模版文件目录
+    template-loader-path: classpath:/templates
+  #整合Jdbc/Mybatis框架
+  datasource: ## 数据库设置
+    url: jdbc:mysql://localhost:3306/springboot
+    username: root
+    password: zhang159357
+    driver-class-name: com.mysql.cj.jdbc.Driver

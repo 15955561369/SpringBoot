@@ -1,3 +1,9 @@
-mayikt:
-  name: yushengjun
-  age: 22
+spring:
+  profiles:
+    active: dev #激活开发环境配置
+server: #修改服务器端口号和上下文路径
+  port: 8085
+  servlet:
+    context-path: /Yz
+logging: #指定读取日志配置文件
+  config: classpath:log/logback.xml

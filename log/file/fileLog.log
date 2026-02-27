@@ -1,0 +1,188 @@
+2026-02-27 11:46:48,188 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 36356 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 11:46:48,190 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 11:46:48,678 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 11:46:48,685 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 11:46:48,689 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 11:46:48,689 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 11:46:48,738 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 11:46:48,739 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 527 ms
+2026-02-27 11:46:48,889 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 11:46:49,015 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 11:46:49,026 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 11:46:49,028 INFO (StartupInfoLogger.java:59)- Started App in 1.105 seconds (JVM running for 1.67)
+2026-02-27 11:47:15,621 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 11:47:15,621 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 11:47:15,626 INFO (FrameworkServlet.java:546)- Completed initialization in 4 ms
+2026-02-27 11:47:15,637 INFO (HelloWorldController.java:35)- Hello World
+2026-02-27 11:47:32,171 INFO (HelloWorldController.java:35)- Hello World
+2026-02-27 11:47:40,003 INFO (HelloWorldController.java:35)- Hello World
+2026-02-27 11:47:58,279 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:45:02,724 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 21312 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 16:45:02,727 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 16:45:03,375 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 16:45:03,382 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:45:03,386 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 16:45:03,387 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 16:45:03,429 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 16:45:03,429 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 680 ms
+2026-02-27 16:45:03,635 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:45:03,793 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:45:03,804 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 16:45:03,806 INFO (StartupInfoLogger.java:59)- Started App in 1.378 seconds (JVM running for 1.924)
+2026-02-27 16:45:18,368 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:45:50,780 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 25072 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 16:45:50,782 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 16:45:51,295 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 16:45:51,305 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:45:51,310 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 16:45:51,310 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 16:45:51,358 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 16:45:51,358 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 560 ms
+2026-02-27 16:45:51,590 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:45:51,747 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:45:51,765 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 16:45:51,767 INFO (StartupInfoLogger.java:59)- Started App in 1.213 seconds (JVM running for 1.743)
+2026-02-27 16:48:24,235 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:50:58,392 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 38440 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 16:50:58,395 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 16:50:59,179 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 16:50:59,190 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:50:59,195 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 16:50:59,195 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 16:50:59,266 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 16:50:59,267 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 838 ms
+2026-02-27 16:50:59,506 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:50:59,664 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:50:59,674 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 16:50:59,676 INFO (StartupInfoLogger.java:59)- Started App in 1.64 seconds (JVM running for 2.199)
+2026-02-27 16:52:10,715 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 16:52:10,716 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 16:52:10,721 INFO (FrameworkServlet.java:546)- Completed initialization in 5 ms
+2026-02-27 16:52:10,734 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 16:52:10,735 INFO (WebLogAspect.java:37)- HTTP_METHOD : POST
+2026-02-27 16:52:10,735 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 16:52:10,737 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 16:53:02,469 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 16:53:02,469 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 16:53:02,469 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 16:53:02,470 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 16:54:21,293 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 16:54:21,293 INFO (WebLogAspect.java:37)- HTTP_METHOD : POST
+2026-02-27 16:54:21,293 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 16:54:21,293 INFO (WebLogAspect.java:43)- Key:uname,Value:zzy
+2026-02-27 16:54:21,294 INFO (WebLogAspect.java:43)- Key:age,Value:23
+2026-02-27 16:54:21,294 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 16:55:02,936 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 16:55:02,937 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 16:55:02,937 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 16:55:02,937 INFO (WebLogAspect.java:43)- Key:uname,Value:yz
+2026-02-27 16:55:02,937 INFO (WebLogAspect.java:43)- Key:age,Value:22
+2026-02-27 16:55:02,937 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 16:55:13,055 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:58:43,481 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 51824 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 16:58:43,483 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 16:58:44,082 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 16:58:44,089 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:58:44,093 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 16:58:44,093 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 16:58:44,139 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 16:58:44,139 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 638 ms
+2026-02-27 16:58:44,325 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 16:58:44,465 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 16:58:44,477 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 16:58:44,479 INFO (StartupInfoLogger.java:59)- Started App in 1.266 seconds (JVM running for 1.814)
+2026-02-27 16:59:04,052 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 16:59:04,052 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 16:59:04,057 INFO (FrameworkServlet.java:546)- Completed initialization in 5 ms
+2026-02-27 16:59:04,078 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 16:59:04,079 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 16:59:04,079 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 16:59:04,079 INFO (WebLogAspect.java:42)- ----------------Params----------------
+2026-02-27 16:59:04,079 INFO (WebLogAspect.java:46)- ---Key:uname,Value:yz
+2026-02-27 16:59:04,080 INFO (WebLogAspect.java:46)- ---Key:age,Value:22
+2026-02-27 16:59:04,082 INFO (WebLogAspect.java:53)- Response : aop
+2026-02-27 17:00:47,741 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:00:54,245 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 30772 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 17:00:54,246 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 17:00:54,781 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 17:00:54,788 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:00:54,792 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 17:00:54,792 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 17:00:54,837 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 17:00:54,837 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 573 ms
+2026-02-27 17:00:55,065 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:00:55,252 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:00:55,268 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 17:00:55,271 INFO (StartupInfoLogger.java:59)- Started App in 1.223 seconds (JVM running for 1.71)
+2026-02-27 17:01:21,888 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 17:01:21,889 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 17:01:21,894 INFO (FrameworkServlet.java:546)- Completed initialization in 5 ms
+2026-02-27 17:01:21,909 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 17:01:21,909 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 17:01:21,909 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 17:01:21,909 INFO (WebLogAspect.java:43)- (Params) Key:uname,Value:yz
+2026-02-27 17:01:21,910 INFO (WebLogAspect.java:43)- (Params) Key:age,Value:22
+2026-02-27 17:01:21,912 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 17:01:51,390 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:12:58,578 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 22868 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 17:12:58,579 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 17:12:59,243 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 17:12:59,254 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:12:59,259 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 17:12:59,259 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 17:12:59,318 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 17:12:59,318 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 718 ms
+2026-02-27 17:12:59,585 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:12:59,745 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:12:59,760 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 17:12:59,762 INFO (StartupInfoLogger.java:59)- Started App in 1.391 seconds (JVM running for 1.923)
+2026-02-27 17:13:11,893 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 17:13:11,893 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 17:13:11,899 INFO (FrameworkServlet.java:546)- Completed initialization in 5 ms
+2026-02-27 17:13:11,914 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 17:13:11,915 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 17:13:11,915 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 17:13:11,915 INFO (WebLogAspect.java:43)- (Params) Key:uname,Value:yz
+2026-02-27 17:13:11,915 INFO (WebLogAspect.java:43)- (Params) Key:age,Value:22
+2026-02-27 17:13:11,918 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 17:13:33,249 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:14:49,359 INFO (StartupInfoLogger.java:50)- Starting App on zy with PID 29608 (D:\JavaProjects\SpringBoot\target\classes started by 15955 in D:\JavaProjects\SpringBoot)
+2026-02-27 17:14:49,360 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2026-02-27 17:14:49,957 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8085 (http)
+2026-02-27 17:14:49,964 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:14:49,968 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2026-02-27 17:14:49,969 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2026-02-27 17:14:50,016 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2026-02-27 17:14:50,016 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 633 ms
+2026-02-27 17:14:50,273 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-27 17:14:50,429 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'taskScheduler'
+2026-02-27 17:14:50,462 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183690461
+2026-02-27 17:14:50,464 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8085"]
+2026-02-27 17:14:50,480 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8085 (http) with context path '/Yz'
+2026-02-27 17:14:50,483 INFO (StartupInfoLogger.java:59)- Started App in 1.341 seconds (JVM running for 1.851)
+2026-02-27 17:14:55,473 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183695473
+2026-02-27 17:15:00,475 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183700475
+2026-02-27 17:15:05,462 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183705462
+2026-02-27 17:15:10,462 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183710462
+2026-02-27 17:15:15,472 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183715472
+2026-02-27 17:15:20,464 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183720464
+2026-02-27 17:15:25,477 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183725477
+2026-02-27 17:15:30,467 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183730467
+2026-02-27 17:15:35,473 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183735473
+2026-02-27 17:15:40,469 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183740469
+2026-02-27 17:15:45,470 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183745470
+2026-02-27 17:15:50,468 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183750468
+2026-02-27 17:15:55,465 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183755465
+2026-02-27 17:15:55,850 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-02-27 17:15:55,850 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2026-02-27 17:15:55,856 INFO (FrameworkServlet.java:546)- Completed initialization in 5 ms
+2026-02-27 17:15:55,870 INFO (WebLogAspect.java:36)- URL : http://127.0.0.1:8085/Yz/aop
+2026-02-27 17:15:55,870 INFO (WebLogAspect.java:37)- HTTP_METHOD : GET
+2026-02-27 17:15:55,871 INFO (WebLogAspect.java:38)- IP : 127.0.0.1
+2026-02-27 17:15:55,871 INFO (WebLogAspect.java:43)- (Params) Key:uname,Value:yz
+2026-02-27 17:15:55,871 INFO (WebLogAspect.java:43)- (Params) Key:age,Value:22
+2026-02-27 17:15:55,874 INFO (WebLogAspect.java:50)- Response : aop
+2026-02-27 17:16:00,471 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183760471
+2026-02-27 17:16:05,474 INFO (ScheduledTasks.java:17)- <<定时任务task01>> 1772183765474
+2026-02-27 17:16:05,786 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'taskScheduler'
+2026-02-27 17:16:05,786 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'

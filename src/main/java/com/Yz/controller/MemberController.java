@@ -1,9 +1,7 @@
-package com.Yz.Controller;
+package com.Yz.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import java.util.Map;
 
 @RestController
 public class MemberController {
@@ -12,4 +10,8 @@ public class MemberController {
         return "getMember";
     }
 
+    @RequestMapping("/aop") //测试AOP进行方法增强，即打印日志。
+    public String aop(String uname,Integer age){
+        return "aop";
+    }
 }
