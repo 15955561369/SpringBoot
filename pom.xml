@@ -73,5 +73,33 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin><!--识别启动类App-->
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <mainClass>com.Yz.App</mainClass> <!--启动类位置-->
+                    <excludes>
+                        <exclude>
+                            <groupId>junit</groupId>
+                            <artifactId>junit</artifactId>
+                        </exclude>
+                        <exclude>
+                            <groupId>org.springframework.boot</groupId>
+                            <artifactId>spring-boot-starter-test</artifactId>
+                        </exclude>
+                    </excludes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

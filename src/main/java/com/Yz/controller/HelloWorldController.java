@@ -35,6 +35,10 @@ public class HelloWorldController {
         log.info("Hello World");
         return "Hello World";
     }
-
+    @RequestMapping("/exception")
+    public String exception() {
+        int j=1/0; //测试捕获异常
+        return "Hello World2";
+    }
 
 }
